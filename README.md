@@ -1,4 +1,4 @@
-<h2>Oi, eu sou a Mirela  :relaxed:</h1>
+<h2>Oi, eu sou a Mirela! </h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miniki7&theme=tokyonight&show_icons=true)
 
