@@ -2,8 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Miniki7&theme=tokyonight&show_icons=true)
 
-
-### Ferramentas e Tecnologias
+________________________________________________________________________________________________________________________________________
+### Ferramentas e Tecnologias:
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />  
@@ -14,6 +14,7 @@
 </div>
 
 ### Contatos:
+
 <div>
   <a href="https://instagram.com/mirela_tiscoski" target="_blank"><img loading="lazy"
   src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank" width="150"></a>
